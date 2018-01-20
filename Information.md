@@ -15,3 +15,9 @@ For making life simple and sticking to the conversation @google is here to help 
 |`#events`| Events like WWDC, Google I/O|
 |`#learnprogramming`| You have a Programming Problem ask here|
 |`#posts`|Curated lift of /r/Teenagers blogs. Including XKCD,CommitStrip,FreeCodeCamp.|
+---
+### Project Ideas:
+
+If you are interested to work on a project feel free to post at #general and let's plan everything!
+
+Link to Idea List: https://docs.google.com/document/d/1qoTdRgyQ-upDI9iasZAaZOXCE728ngR0KL_PIbRLmCU/edit?ts=5a0ce466
