@@ -3,7 +3,7 @@
 ### By joining our Community even though there aren’t many trolls or jerks you agree that you’ll be respectful and listen to our rules
 
 
-### In case you violate a rule you’ll be warned and given a penalty. If you get 4 Penalties your account is going to be suspended. If you get a warning and you think it’s wrong you can appeal it to the *mod team. If you have your account suspended please message one of the moderators on our Subreddit.
+### In case you violate a rule you’ll be warned and given a penalty. If you get 4 Penalties your account is going to be suspended. If you get a warning and you think it’s wrong you can appeal it to the *mod team. If you have your account suspended please message one of the moderators on our subreddit or email rteendeveloper+banhammer@gmail.com.
 
 
 ### We reserve the right to ban users if the violation is much more serious!
@@ -40,7 +40,14 @@
 
 13. Arrays start at 0
 
-14. Have Fun and Enjoy
+14. Advertising on the server without getting permision by a moderator is bannable. Advertisements count as:
+  a) Link to other Slack, Discord, Twitter, Hangouts, etc... Communities
+  b) Job Advertisements, Hunting for people to join a project. (This is mostly for Human Resources)
+  c) Posting links from news sites, reddit, hacker news does not count as Advertisement unless asked to upvote said post!
+  d) Referal Links won't be banned but don't spam with them or message each user individualy to join!
+  e) GitHub Links and StackOverflow links that lead to any project of yours or to showcase something aren't bannable! Submitting a link and asking for upvotes to win a challenge or bet for an example without permission of the moderation team is bannable.
+
+15. Have Fun and Enjoy
 
 
 
